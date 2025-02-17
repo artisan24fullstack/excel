@@ -21,5 +21,4 @@ you need to ungroup the columns.
 
 To ungroup columns, select the relevant columns, 
 then in the Data tab, click on the Ungroup icon.
-
 ```
