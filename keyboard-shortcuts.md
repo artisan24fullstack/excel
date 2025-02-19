@@ -1,13 +1,18 @@
 # Keyboard Shortcuts Excel
 
 - Using the keyboard can make your work faster and smoother.
-  
+
+## Windows Shortcuts: 
+Microsoft Office Support pages 
+https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-excel-1798d9d5-842a-42b8-9c99-9b7213f0040f?ui=en-US&rs=en-US&ad=US
+
 ## Undo/Redo CTRL+Z and CTRL+Y 
 
 ```
 * Possibly some of the most frequently used keyboard shortcuts ever are CTRL+Z and CTRL+Y 
 * Z stands for undo and Y for redo. 
 * CTRL-Y will redo your most recent action which comes in really handy if/when you want to apply a certain step more than once. 
+* CTRL + Z — Undo previous action
 ```
 
 ## New File/ New Workbook CTRL+N 
@@ -83,4 +88,32 @@
 * On certain keyboards without a Home key, 
 * you might need to use CTRL+Fn+Home to use this shortcut.
 ```
+## Cycling Cell References F4 (fn + F4) 
 
+```
+* F4 (fn + F4) 
+* Cycle through all 4 types of cell references (Absolute, Mixed x2, Relative)
+* Each time you press the shortcut key, the cell reference cycles through four states:
+
+$A$1 - Both column and row are absolute
+A$1 - Only row is absolute
+$A1 - Only column is absolute
+A1 - Both column and row are relative
+```
+
+## Displaying Formulas CTRL + ~  
+
+```
+* CTRL + ~  
+* Show formulas in the worksheet
+```
+
+## Navigating Worksheets
+
+```
+* CTRL + PgUp 
+* Go to the previous sheet.
+
+* CTRL + PgDn 
+* Go to the next sheet.
+```
