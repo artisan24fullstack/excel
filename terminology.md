@@ -196,3 +196,52 @@ A3*B3 in C3 and A4*B4 in C4.
 * The keyboard shortcut to turn a cell reference 
   into an absolute cell reference is to press F4.
 ```
+
+## Filter
+
+```
+* Applying a filter to a column (or columns) quickly displays 
+  only those rows that contain the information you are looking for. 
+
+* There are three different ways to access the filter tool: 
+  the right-click context menu, the Home tab, or the Data tab. 
+
+* The filter tool allows you to control the data 
+  that is displayed on your screen. 
+
+* Any data contained in rows that don't meet the selected criteria 
+  will remain hidden as long as the filter is applied. 
+
+* Once the filter is cleared, the data display will return back to normal.
+```
+
+## Sorting
+
+```
+* The Sorting tool helps you to arrange your data in a specific order. 
+
+* There are three different ways to access the sorting tool: 
+  the right-click context menu, the Home tab, or the Data tab. 
+  
+* The sorting tool is quite powerful and allows you to sort by multiple levels, 
+  match case and sort from left to right 
+  as well as from top to bottom.
+  
+* When you want to sort your data, 
+  simply click anywhere in your data set and then open up Sorting.
+```
+
+## Conditional Formatting
+
+```
+* At its most basic, 
+* Conditional Formatting allows you to automatically apply formatting 
+  whenever certain criteria are met. 
+
+* Access the tool in the Styles group on the Home tab 
+  once you have selected the data you want to format conditionally. 
+
+* There are a number of options available:
+* Conditional formatting is a great tool with lots of versatile use cases. 
+* The formatting updates dynamically based on new values entered which make it super-useful.
+```

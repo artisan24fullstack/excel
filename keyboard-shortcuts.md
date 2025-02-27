@@ -78,12 +78,19 @@ https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-excel-1798d9d5-
 * Page Up and Page Down will move one "page" (the number of rows shown on the screen) up or down. 
 
 * CTRL+arrow keys will move to the next blank cell in that direction. 
+* CTRL+Arrow keys Go to first/last cell in a row, column.
+
+
 
 * If you have a large dataset with no gaps this will move to the edges of the dataset. 
 
 * CTRL+Home takes you to the first cell that contains data in the top-left corner of the sheet. 
+* CTRL+Home (CMD+Home) Select the first non-blank cell.
+
 
 * CTRL+End goes to the last cell in the bottom-right. 
+* CTRL + End Go to the last non-blank cell.
+
 
 * On certain keyboards without a Home key, 
 * you might need to use CTRL+Fn+Home to use this shortcut.
@@ -116,4 +123,32 @@ A1 - Both column and row are relative
 
 * CTRL + PgDn 
 * Go to the next sheet.
+```
+
+## Hide Column CTRL + 0 / Unhide Column CTRL + SHIFT + 0 
+
+```
+* CTRL + 0
+* Hide the column containing the selected cell.
+
+* CTRL + SHIFT + 0 
+* Unhide the column containing the selected cell. 
+* (Select cells surrounding hidden column) 
+```
+## Hide Row	CTRL + 9 / ## Unhide Row	CTRL + SHIFT + 9 
+
+```
+* CTRL + 9
+* Hide the row containing the selected cell.
+
+* CTRL + SHIFT + 9 
+* Unhide the row containing the selected cell. 
+* (Select cells surrounding hidden row)
+```
+
+## Toggle Filter CTRL + SHIFT + L 
+
+```
+* CTRL + SHIFT + L 
+* Add or remove a filter
 ```

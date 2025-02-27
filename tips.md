@@ -42,3 +42,18 @@ Example: =3+4*5
 
 * The formula should look like this: =(3+4)*5
 ```
+
+
+## Conditional Formatting vs. Filtering
+
+```
+* They both let you show data based on specific criteria or conditions. 
+* Why would you choose one over the other?
+
+* Filtering will only show data that matches the criteria. 
+* You can provide multiple filters, 
+* but only data that matches all conditions will be visible.
+
+* Conditional formatting will show data that fits any of the conditions chosen. 
+* It also provides more visual and graphical elements.
+```
