@@ -152,3 +152,5 @@ A1 - Both column and row are relative
 * CTRL + SHIFT + L 
 * Add or remove a filter
 ```
+
+## Insert new Chart sheet from selection F11 

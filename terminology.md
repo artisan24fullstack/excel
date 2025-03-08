@@ -245,3 +245,93 @@ A3*B3 in C3 and A4*B4 in C4.
 * Conditional formatting is a great tool with lots of versatile use cases. 
 * The formatting updates dynamically based on new values entered which make it super-useful.
 ```
+
+## Chart Area
+
+```
+* The chart area refers to the entire chart; 
+* typical elements are the data series, axes, titles and legends.
+```
+## Chart Sheet
+
+```
+* A chart sheet is a worksheet that only contains one chart. 
+
+* If you want to move your chart to a chart sheet, 
+* you need to use the Move Chart tool on the CHARTS/DESIGN tab. 
+
+* When charts appear on worksheets along with other information, 
+* they are embedded.
+```
+
+## Data Label
+
+```
+* Extra information associated with a data point. 
+* Often used to show the actual value of a data point,
+* the height of a bar or percentage of a pie slice. 
+* Data labels are not always displayed on the chart.
+```
+
+## Data Points
+
+```
+* Values from cells on worksheets, 
+* displayed as bars, lines, columns, pie slices 
+* or other shapes on a chart.
+```
+
+## Data Series
+
+```
+* A collection of related values plotted on a chart.
+```
+
+## Embedded Chart
+
+```
+* The chart is embedded as an object on the worksheet, 
+* alongside the data it is generated from. 
+
+* The chart can be printed 
+* as part of that sheet 
+* or as a separate item. 
+
+* Best used when the data needs to be shown 
+* in the context of the worksheet data.
+```
+
+## Gridlines
+
+```
+* Lines across the plot area, 
+* allowing the eye to travel more easily back 
+* to the values on the axes.
+```
+
+## Legend
+
+```
+* The legend is displayed in a location outside 
+* of the grid framed by the axis. 
+
+* A key that appears in a small box beside your chart, 
+* showing which colours 
+* and symbols represent each data series.
+```
+## Plot Area
+
+```
+* The part of the chart bound by the vertical 
+* and horizontal axes and their opposing sides.
+```
+## X & Y Axes
+
+```
+* The X axis lies along the bottom of the chart 
+* and is usually used for categories. 
+
+* The Y axis goes up one side 
+* and is used for data series values. 
+* The axes are reversed on bar charts.
+```

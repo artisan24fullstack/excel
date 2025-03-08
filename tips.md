@@ -57,3 +57,36 @@ Example: =3+4*5
 * Conditional formatting will show data that fits any of the conditions chosen. 
 * It also provides more visual and graphical elements.
 ```
+
+## Don't underestimate the right-click 
+
+```
+* Right-clicking on a chart in Excel 
+* allows you to alter pretty much any part 
+* and aspect of a chart.
+
+* The right-click gives you quick 
+* and convenient access to most options 
+* for a productive and efficient workflow.
+```
+
+## Transposing columns into rows (and vice versa)
+
+```
+* Every now and then you create a nice set of data
+* only to realise that you would have preferred that the data 
+* that is currently in columns to appear in rows (or the other way around).
+
+* Excel provides a little-known feature that allows 
+* you to do change your rows and columns by transposing them.
+
+* Sometimes you’ll be working with data formatted in columns 
+* and you really need it to be in rows (or the other way around). 
+
+* Simply copy the row or column you’d like to transpose, 
+* right click on the destination cell and select Paste Special. 
+
+* A checkbox on the bottom of the resulting popup window is labeled Transpose. 
+* Check the box and click OK.
+* Excel will do the rest.
+```
